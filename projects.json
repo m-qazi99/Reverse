@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "pipeline-pulse",
+    "name": "Pipeline Pulse",
+    "purpose": "Failed-activity priorities, recovery coverage and capacity handoffs",
+    "version": "2.1.0",
+    "keywords": [
+      "Visual DAG builder",
+      "Python-graded incident challenges",
+      "Capacity planning frontier",
+      "Local experiment vault",
+      "Review Desk handoff exports"
+    ],
+    "live": "https://m-qazi99.github.io/pipeline-pulse/",
+    "source": "https://github.com/m-qazi99/pipeline-pulse",
+    "guide": "https://github.com/m-qazi99/pipeline-pulse/blob/main/docs/USER_GUIDE.md"
+  },
+  {
+    "slug": "datalens",
+    "name": "DataLens",
+    "purpose": "Contract coverage gaps and failing-rule review priorities",
+    "version": "2.1.0",
+    "keywords": [
+      "Row-level quality heatmap",
+      "Executable JSON contracts",
+      "Baseline PSI drift comparison",
+      "Distribution and schema inspection",
+      "Review Desk handoff exports"
+    ],
+    "live": "https://m-qazi99.github.io/datalens/",
+    "source": "https://github.com/m-qazi99/datalens",
+    "guide": "https://github.com/m-qazi99/datalens/blob/main/docs/USER_GUIDE.md"
+  },
+  {
+    "slug": "recon-lab",
+    "name": "Recon Lab",
+    "purpose": "Keyset exceptions and field-level reconciliation priorities",
+    "version": "2.1.0",
+    "keywords": [
+      "Selectable record diff inspector",
+      "Absolute and relative Decimal policies",
+      "Tolerance sensitivity frontier",
+      "Control totals and exception ledger",
+      "Review Desk handoff exports"
+    ],
+    "live": "https://m-qazi99.github.io/recon-lab/",
+    "source": "https://github.com/m-qazi99/recon-lab",
+    "guide": "https://github.com/m-qazi99/recon-lab/blob/main/docs/USER_GUIDE.md"
+  },
+  {
+    "slug": "runbook-radar",
+    "name": "Runbook Radar",
+    "purpose": "Evaluation coverage, top-K misses and no-match review",
+    "version": "2.1.0",
+    "keywords": [
+      "BM25 versus TF-IDF ranking",
+      "Per-term score explanation",
+      "Controllable chunk atlas",
+      "Labeled MRR and hit-rate evaluation",
+      "Review Desk handoff exports"
+    ],
+    "live": "https://m-qazi99.github.io/runbook-radar/",
+    "source": "https://github.com/m-qazi99/runbook-radar",
+    "guide": "https://github.com/m-qazi99/runbook-radar/blob/main/docs/USER_GUIDE.md"
+  },
+  {
+    "slug": "privacy-forge",
+    "name": "Privacy Forge",
+    "purpose": "Retained signals, singleton groups and policy review",
+    "version": "2.1.0",
+    "keywords": [
+      "Visual column policy builder",
+      "Six transformation actions",
+      "Quasi-identifier group exposure",
+      "Hashed input/output audit receipts",
+      "Review Desk handoff exports"
+    ],
+    "live": "https://m-qazi99.github.io/privacy-forge/",
+    "source": "https://github.com/m-qazi99/privacy-forge",
+    "guide": "https://github.com/m-qazi99/privacy-forge/blob/main/docs/USER_GUIDE.md"
+  }
+]
